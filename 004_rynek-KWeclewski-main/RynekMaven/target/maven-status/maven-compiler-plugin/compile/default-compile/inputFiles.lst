@@ -1,0 +1,14 @@
+C:\Users\KanoidSan\Documents\Repos\004_rynek-KWeclewski\RynekMaven\src\main\java\market\ug\kamilw\model\Offer.java
+C:\Users\KanoidSan\Documents\Repos\004_rynek-KWeclewski\RynekMaven\src\main\java\market\ug\kamilw\observer\InflationObserver.java
+C:\Users\KanoidSan\Documents\Repos\004_rynek-KWeclewski\RynekMaven\src\main\java\market\ug\kamilw\observer\TurnoverObserver.java
+C:\Users\KanoidSan\Documents\Repos\004_rynek-KWeclewski\RynekMaven\src\main\java\market\ug\kamilw\observer\OfferObserver.java
+C:\Users\KanoidSan\Documents\Repos\004_rynek-KWeclewski\RynekMaven\src\main\java\market\ug\kamilw\visitor\SmallDecreaseVisitor.java
+C:\Users\KanoidSan\Documents\Repos\004_rynek-KWeclewski\RynekMaven\src\main\java\market\ug\kamilw\visitor\SmallIncreaseVisitor.java
+C:\Users\KanoidSan\Documents\Repos\004_rynek-KWeclewski\RynekMaven\src\main\java\market\ug\kamilw\model\Product.java
+C:\Users\KanoidSan\Documents\Repos\004_rynek-KWeclewski\RynekMaven\src\main\java\market\ug\kamilw\model\Seller.java
+C:\Users\KanoidSan\Documents\Repos\004_rynek-KWeclewski\RynekMaven\src\main\java\market\ug\kamilw\visitor\MarketVisitor.java
+C:\Users\KanoidSan\Documents\Repos\004_rynek-KWeclewski\RynekMaven\src\main\java\market\ug\kamilw\model\Bank.java
+C:\Users\KanoidSan\Documents\Repos\004_rynek-KWeclewski\RynekMaven\src\main\java\market\ug\kamilw\visitor\HighIncreaseVisitor.java
+C:\Users\KanoidSan\Documents\Repos\004_rynek-KWeclewski\RynekMaven\src\main\java\market\ug\kamilw\model\Interest.java
+C:\Users\KanoidSan\Documents\Repos\004_rynek-KWeclewski\RynekMaven\src\main\java\market\ug\kamilw\model\Client.java
+C:\Users\KanoidSan\Documents\Repos\004_rynek-KWeclewski\RynekMaven\src\main\java\market\ug\kamilw\visitor\HighDecreaseVisitor.java

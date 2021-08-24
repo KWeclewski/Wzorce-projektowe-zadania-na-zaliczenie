@@ -1,0 +1,11 @@
+
+D
+java:S1659""Declare "pdm2" on a separate line.(Õº®ûÿÿÿÿ8ÏçîØ£/
+S
+java:S1854""8Remove this useless assignment to local variable "pdm3".(ô™ê´ÿÿÿÿÿ
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºıÏ¿8‚™íØ£/
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑİÖ»ùÿÿÿÿ8€íëØ£/
+D
+java:S1659""Declare "pdm3" on a separate line.(Õº®ûÿÿÿÿ8¬ªïØ£/
+K
+java:S1481")Remove this unused "pdm3" local variable.(Õº®ûÿÿÿÿ8¬ªïØ£/

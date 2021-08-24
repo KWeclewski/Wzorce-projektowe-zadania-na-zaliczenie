@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/004_rynek-KWeclewski.iml" filepath="$PROJECT_DIR$/.idea/004_rynek-KWeclewski.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RynekMaven/RynekMaven.iml" filepath="$PROJECT_DIR$/RynekMaven/RynekMaven.iml" />
+    </modules>
+  </component>
+</project>

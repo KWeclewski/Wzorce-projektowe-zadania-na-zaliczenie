@@ -1,0 +1,7 @@
+
+[
+java:S5993
+"9Change the visibility of this constructor to "protected".(âÄ«ôıÿÿÿÿ8±è¸Ğ£/
+p
+java:S2975!"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ8òê©Ğ£/
+t	java:S116"SRename this field "_wartosc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àüëıÿÿÿÿ8üšªĞ£/

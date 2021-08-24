@@ -1,0 +1,9 @@
+
+b	java:S112V"FDefine and throw a dedicated exception instead of using a generic one.(¿Ôš›8ÛæÙĞ£/
+m	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Ç8 ®ûÑ£/
+|	java:S116"[Rename this field "MapaPuliObjektow" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¶÷°üÿÿÿÿ8»öÊÑ£/
+“
+java:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(¢¼ñºúÿÿÿÿ8ÛæÙĞ£/
+w	java:S1168"[Rename this field "MapaPuliObjektow" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Éøû8ŒãöÑ£/
+g	java:S112Y"FDefine and throw a dedicated exception instead of using a generic one.(íµœ—ùÿÿÿÿ8ÛæÙĞ£/
+b	java:S112S"FDefine and throw a dedicated exception instead of using a generic one.(í”ô¸8ÛæÙĞ£/

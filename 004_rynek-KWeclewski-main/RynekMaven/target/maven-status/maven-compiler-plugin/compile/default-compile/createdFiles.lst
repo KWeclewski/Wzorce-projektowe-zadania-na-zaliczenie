@@ -1,0 +1,14 @@
+market\ug\kamilw\model\Client.class
+market\ug\kamilw\model\Product.class
+market\ug\kamilw\visitor\HighDecreaseVisitor.class
+market\ug\kamilw\model\Seller.class
+market\ug\kamilw\visitor\SmallDecreaseVisitor.class
+market\ug\kamilw\model\Bank.class
+market\ug\kamilw\observer\InflationObserver.class
+market\ug\kamilw\visitor\HighIncreaseVisitor.class
+market\ug\kamilw\model\Interest.class
+market\ug\kamilw\observer\OfferObserver.class
+market\ug\kamilw\observer\TurnoverObserver.class
+market\ug\kamilw\visitor\SmallIncreaseVisitor.class
+market\ug\kamilw\model\Offer.class
+market\ug\kamilw\visitor\MarketVisitor.class

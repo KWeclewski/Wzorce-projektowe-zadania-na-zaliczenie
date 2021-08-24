@@ -1,0 +1,14 @@
+C:\Users\KanoidSan\Documents\Repos\002_fabryki-KWeclewski\Fabryki\Fabryki\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\KanoidSan\Documents\Repos\002_fabryki-KWeclewski\Fabryki\Fabryki\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\KanoidSan\Documents\Repos\002_fabryki-KWeclewski\Fabryki\Fabryki\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\KanoidSan\Documents\Repos\002_fabryki-KWeclewski\Fabryki\Fabryki\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\KanoidSan\Documents\Repos\002_fabryki-KWeclewski\Fabryki\Fabryki\bin\Debug\netcoreapp2.1\Fabryki.deps.json
+C:\Users\KanoidSan\Documents\Repos\002_fabryki-KWeclewski\Fabryki\Fabryki\bin\Debug\netcoreapp2.1\Fabryki.runtimeconfig.json
+C:\Users\KanoidSan\Documents\Repos\002_fabryki-KWeclewski\Fabryki\Fabryki\bin\Debug\netcoreapp2.1\Fabryki.runtimeconfig.dev.json
+C:\Users\KanoidSan\Documents\Repos\002_fabryki-KWeclewski\Fabryki\Fabryki\bin\Debug\netcoreapp2.1\Fabryki.dll
+C:\Users\KanoidSan\Documents\Repos\002_fabryki-KWeclewski\Fabryki\Fabryki\bin\Debug\netcoreapp2.1\Fabryki.pdb
+C:\Users\KanoidSan\Documents\Repos\002_fabryki-KWeclewski\Fabryki\Fabryki\obj\Debug\netcoreapp2.1\Fabryki.csproj.CoreCompileInputs.cache
+C:\Users\KanoidSan\Documents\Repos\002_fabryki-KWeclewski\Fabryki\Fabryki\obj\Debug\netcoreapp2.1\Fabryki.AssemblyInfoInputs.cache
+C:\Users\KanoidSan\Documents\Repos\002_fabryki-KWeclewski\Fabryki\Fabryki\obj\Debug\netcoreapp2.1\Fabryki.AssemblyInfo.cs
+C:\Users\KanoidSan\Documents\Repos\002_fabryki-KWeclewski\Fabryki\Fabryki\obj\Debug\netcoreapp2.1\Fabryki.dll
+C:\Users\KanoidSan\Documents\Repos\002_fabryki-KWeclewski\Fabryki\Fabryki\obj\Debug\netcoreapp2.1\Fabryki.pdb
